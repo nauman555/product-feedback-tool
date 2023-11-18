@@ -1,0 +1,12 @@
+/* Customize the size of pagination arrows */
+.pagination li span,
+.pagination li a {
+    font-size: 14px; /* Adjust the font size as needed */
+    line-height: 1.5;
+}
+
+/* Optionally, you can customize the size of the current page link */
+.pagination .page-item.active span {
+    font-size: 16px; /* Adjust the font size as needed */
+    font-weight: bold;
+}
