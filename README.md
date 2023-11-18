@@ -54,7 +54,7 @@ Manually update the is_admin column to (1) in the users table for the desired us
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/product-feedback-tool.git
+   git clone [https://github.com/nauman555/product-feedback-tool.git]
 
 2.	Install PHP dependences:
 composer install
